@@ -7,3 +7,4 @@ Learn python daily
 * day 3 - data types
 * day 4 - print statement
 * day 5 - variables and constants
+* day 6 - input statement
