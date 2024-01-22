@@ -11,3 +11,4 @@ Learn python daily
 * day 7 - problem statements (1. area of rectangle 2. Simple interest)
 * day 8 - solution of given problems
 * day 9 - type casting
+* day 10 - comments
