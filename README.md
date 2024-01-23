@@ -12,3 +12,4 @@ Learn python daily
 * day 8 - solution of given problems
 * day 9 - type casting
 * day 10 - comments
+* day 11 - type() function
