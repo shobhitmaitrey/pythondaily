@@ -13,3 +13,5 @@ Learn python daily
 * day 9 - type casting
 * day 10 - comments
 * day 11 - type() function
+* day 12 - operators and operands
+* day 13 - types of operators
