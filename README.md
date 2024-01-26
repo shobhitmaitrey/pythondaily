@@ -15,3 +15,4 @@ Learn python daily
 * day 11 - type() function
 * day 12 - operators and operands
 * day 13 - types of operators
+* day 14 - problem statement (power function)
