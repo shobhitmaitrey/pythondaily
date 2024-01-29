@@ -17,3 +17,5 @@ Learn python daily
 * day 13 - types of operators
 * day 14 - problem statement (power function)
 * day 15 - exponantial operator
+* day 16 - data types in detail
+* day 17 - Conditional Statements
