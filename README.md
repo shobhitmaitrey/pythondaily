@@ -19,3 +19,4 @@ Learn python daily
 * day 15 - exponantial operator (solution of given problem)
 * day 16 - data types in detail
 * day 17 - Conditional Statements
+* day 18 - indentation in python
