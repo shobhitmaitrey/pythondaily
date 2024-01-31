@@ -20,3 +20,4 @@ Learn python daily
 * day 16 - data types in detail
 * day 17 - Conditional Statements
 * day 18 - indentation in python
+* day 19 - if and else statement 
