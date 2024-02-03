@@ -21,4 +21,6 @@ Learn python daily
 * day 17 - Conditional Statements
 * day 18 - indentation in python
 * day 19 - if and else statement
-* day 20 - elif statement 
+* day 20 - elif statement
+
+-> reschedule study plan : per 3 days one video lecture
