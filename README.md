@@ -24,3 +24,4 @@ Learn python daily
 * day 20 - elif statement
 
 -> reschedule study plan : per 3 days one video lecture
+* problem statement
